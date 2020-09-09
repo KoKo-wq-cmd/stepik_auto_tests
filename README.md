@@ -1,2 +1,2 @@
 # stepik_auto_tests
-Initial files for a project
+Initial files for a project and changes  
